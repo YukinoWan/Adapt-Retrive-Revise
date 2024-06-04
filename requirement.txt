@@ -1,0 +1,8 @@
+transformers>=4.27.1
+datasets
+evaluate
+accelerate>=0.20.1
+deepspeed
+sentencepiece
+deepspeed>=0.8.3
+pytest-rerunfailures>=11.1.2
